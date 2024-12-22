@@ -1,37 +1,39 @@
-## Hi there 👋
-Welcome to my GitHub profile! I'm a BSc Computing student at Islington College, currently diving deep into AI, programming, and mobile app development. I'm always looking to push the limits of what's possible with technology.
+# Hi, I'm Sanish 👋
 
-🚀 About Me
-📚 I’m pursuing a BSc Hons in Computing, expecting to graduate in 2025.
-💻 My tech stack includes Java, C, Flutter, .NET, and Firebase.
-🌱 Currently working on a real-time tracking app for city transit, combining Flutter for the frontend and .NET for the backend with a PostgreSQL database.
-🎮 I love Mobile Legends and playing as Cecilion (he’s the best!).
-💡 I’m passionate about building innovative solutions and tackling complex problems through parallel computing, AI, and real-time systems.
-📈 My Projects
-🚎 City Transit Real-Time Tracker
-A full-stack Android app for real-time public transportation tracking using Flutter (frontend), .NET (backend), Firebase, and PostgreSQL.
+Welcome to my GitHub profile! I'm a **BSc Computing student** passionate about programming, AI, and mobile app development. I'm always exploring new ways to solve problems and create innovative solutions.
 
-🖼️ Parallel Gaussian Blur Implementation
-A parallel implementation of the Gaussian blur operation on bitmap images using MPI for high-performance image processing.
+## 🚀 About Me
 
-🧠 AI Coursework
-Research and development of AI concepts, focusing on real-time data processing, problem-solving, and designing conceptual solutions with pseudocode and diagrams.
+- 📚 Currently pursuing **BSc Hons in Computing** at Islington College, graduating in 2025.
+- 💻 I love working with **Java**, **C**, **Flutter**, **.NET**, and **Firebase**.
+- 🌱 My current project is a **real-time city transit tracking app** with **Flutter** for the frontend, **.NET** for the backend, and **Firebase** for the real-time database.
+- 🎮 When I'm not coding, I'm playing **Mobile Legends**, and my favorite hero is **Cecilion**.
+- 💡 I enjoy diving deep into **parallel computing**, **AI**, and **real-time systems**.
 
-⚡ Fun Facts
-I prefer working with aggressive names—I think it adds character to my projects. 😎
-I’m obsessed with teal colors—it's just so calm and cool.
-When I’m not coding, I’m probably playing Mobile Legends or brainstorming new tech ideas
-<!--
-**Flintymint/Flintymint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 Projects
 
-Here are some ideas to get you started:
+### 🚎 **Yatri App Real-Time Tracker**
+A full-stack **Android app** to track public transportation in real-time. Built with **Flutter** for the frontend, **.NET** for the backend, **Firebase** for real-time data, and **PostgreSQL** for data storage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖼️ **Parallel Gaussian Blur**
+A **parallel implementation** of the **Gaussian blur** operation on bitmap images using **MPI** to speed up image processing tasks.
+
+### 🧠 **AI Coursework**
+Researching and developing **AI concepts** to create efficient problem-solving algorithms. I love exploring how AI can be applied to real-time data systems.
+
+## ⚡ Fun Facts
+
+- **Teal** is my favorite color—calming yet bold.
+- I love **aggressive names**—they add a certain edge to my projects.
+- In addition to coding, I’m passionate about **Mobile Legends** and diving into new tech challenges.
+
+## 📫 How to Reach Me
+
+- 📧 Email: [piyame04@gmail.com](mailto:piyame04@gmail.com)
+- 🔗 LinkedIn: [Eden's LinkedIn](https://www.linkedin.com/in/sanish-piya-40038b193/)
+
+Feel free to explore my repositories, contribute, or just say hi! 😄
+
+---
+
+Thanks for visiting my GitHub profile!
